@@ -6,11 +6,13 @@ This repository contains introductory information in the field of process mining
 2. Disco 
 
 # Observations
-	1. Process models are constructed from event logs obtained from a system - for example online peer review system
-	2. Models are built using discovery mining that includes alpha, heuristic, fuzzy and social network techniques / algorithms
-	3. Deviations are monitored by comparing the models with observed events using conformance check technique
-	4. Conformance mining includes LTL checker, performance analysis with petri nets etc
-	5. Third step is to detect bottlenecks and deviations 
-	6. ProM and disco are two open source frameworks that can be used 
-	7. These frameworks accept data in XES and MXML formats
+1. Process models are constructed from event logs obtained from a system - for example online peer review system
+2. Models are built using discovery mining that includes alpha, heuristic, fuzzy and social network techniques / algorithms
+3. Deviations are monitored by comparing the models with observed events using conformance check technique
+4. Conformance mining includes LTL checker, performance analysis with petri nets etc
+5. Third step is to detect bottlenecks and deviations 
+6. ProM and disco are two open source frameworks that can be used 
+7. These frameworks accept data in XES and MXML formats
 
+# Installation notes
+Mac installer is of .dmg type which installs ProM and Package Manager. Package Manager is only used to update an existing package or install a new package. From an ultility perspective, we only need ProM 6.x version. 
