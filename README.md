@@ -15,4 +15,6 @@ This repository contains introductory information in the field of process mining
 7. These frameworks accept data in XES and MXML formats
 
 # Installation notes
-Mac installer is of .dmg type which installs ProM and Package Manager. Package Manager is only used to update an existing package or install a new package. From an ultility perspective, we only need ProM 6.x version. 
+Mac installer is of .dmg type which installs ProM and Package Manager. Package Manager is only used to update an existing package or install a new package. From an ultility perspective, we need ProM 6.x version. 
+
+This installer needs Java 6 to be preinstalled on to your machine. 
